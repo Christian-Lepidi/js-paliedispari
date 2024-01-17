@@ -1,0 +1,11 @@
+-Chiedo all'utente,attraverso un prompt, di scegliere pari o dispari,
+-Chiedo all'utente,attraverso un prompt, di inserire un numero che va da 1 a 5,
+-Creo una variabile che raccoglie la scelta pari o dispari dell'utente,
+-Creo una variabile che raccoglie il numero scelto dall'utente,
+-Creo una variabile per il numero del pc,
+-Creo una funzione che generi un numero random da 1 a 5 da assegnare alla variabile del numero del pc,
+-Creo una vaariabile che è il risultato della somma del numero utente + numero pc,
+-Creo una funzione che verifichi se il risultato è pari o dispari,
+-SE l'utente ha scelto pari e il risultato è pari, stampo "UTENTE VINCE",
+-ALTRIMENTI SE l'utente ha scelto dispari e il risultato è dispari, stampo "UTENTE VINCE",
+-ALTRIMENTI stampo "COMPUTER VINCE".
