@@ -3,11 +3,9 @@ const numeroUtente = parseInt(prompt("Seleziona un numero da 1 a 5"));
 
 if (pariOdispari != "pari" && "dispari") {
   console.error("I valori non sono corretti");
-}
-if (isNaN(numeroUtente)) {
+} else if (isNaN(numeroUtente)) {
   console.error("I valori non sono corretti");
-}
-if (numeroUtente < 1 || numeroUtente > 5) {
+} else if (numeroUtente < 1 || numeroUtente > 5) {
   console.error("I valori non sono corretti");
 } else {
   function getRandomNumber() {
